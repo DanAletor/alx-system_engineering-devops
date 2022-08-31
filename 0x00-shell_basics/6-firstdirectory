@@ -1,4 +1,2 @@
 #!/bin/bash
-mkdir tmp
-mkdir myfirstdirectory
-mv myfirstdirectory tmp
+mkdir tmp /myfirstdirectory 
